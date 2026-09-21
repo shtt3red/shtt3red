@@ -1,7 +1,5 @@
 # Hi there, I'm sh3 👋
 
----
-
 I am a beginner developer focused on learning core programming concepts, algorithms, and software development fundamentals.
 
 ---
@@ -22,4 +20,4 @@ I am a beginner developer focused on learning core programming concepts, algorit
 ---
 
 ## 📬 Connect with me
-- **tg:** [://t.me](https://t.me/shtt3red)
+- **tg:** [://shtt3red](https://t.me/shtt3red)
