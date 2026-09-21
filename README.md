@@ -20,4 +20,4 @@ I am a beginner developer focused on learning core programming concepts, algorit
 ---
 
 ## 📬 Connect with me
-- **tg:** [://shtt3red](https://t.me/shtt3red)
+[t.me](https://t.me/shtt3red)
