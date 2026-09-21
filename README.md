@@ -1,10 +1,10 @@
-# Hi there, I'm sh3 👋
+# hi there, I'm sh3 👋
 
 I am a beginner developer focused on learning core programming concepts, algorithms, and software development fundamentals.
 
 ---
 
-## 🛠️ Languages & Tools
+## 🛠️ languages & tools
 - **C#:** Object-oriented programming basics and console applications.
 - **Python:** Basic scripting, automation, and problem-solving.
 - **Pascal:** Learning foundational algorithms and structured programming.
@@ -12,12 +12,12 @@ I am a beginner developer focused on learning core programming concepts, algorit
 
 ---
 
-## 🎯 Current Goals
+## 🎯 current goals
 - Master object-oriented programming (OOP) principles.
 - Build my first portfolio projects in Python and C#.
 - Improve my understanding of data structures and algorithms.
 
 ---
 
-## 📬 Connect with me
+## 📬 connect with me
 [t.me](https://t.me/shtt3red)
